@@ -6,7 +6,7 @@ namespace ConsoleSweeper
     {
         static void Main(string[] args)
         {
-            int[,] board = new int[20, 10];
+            Console.ReadLine();
         }
     }
 }
