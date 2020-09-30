@@ -6,6 +6,10 @@ namespace ConsoleSweeper
     {
         static void Main(string[] args)
         {
+            SweeperGrids sweeperGrids = new SweeperGrids();
+
+            sweeperGrids.CheckPosition();
+            
             Console.ReadLine();
         }
     }
